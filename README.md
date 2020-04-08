@@ -1,6 +1,9 @@
 # Counter
 
 This is a sample that uses redux
+>redux
+>react-redux
+>middleware redux-thunk
 
 ## Using
 
