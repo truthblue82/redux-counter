@@ -1,2 +1,12 @@
-# redux-counter
-A sample that applies redux
+# Counter
+
+This is a sample that uses redux
+
+## Using
+
+1) Run "npm install" in the extracted folder
+2) Run "npm start" to view the project
+
+## redux-basics.js
+
+It's just a file for applying redux as basic level.
